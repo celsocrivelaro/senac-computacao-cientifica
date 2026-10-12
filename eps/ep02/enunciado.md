@@ -1,8 +1,10 @@
-EP 2 - Simulação Discreta
+# EP 2 - Simulação Discreta
 
 ## Objetivo
 
-O objetivo deste EP é fazer simulações computacionais discretas. Na computação científica, computadores são excelentes para fazer simulações de casos em que a modelagem matemática não é suficiente para analisar um problema.
+O objetivo deste EP é fazer simulações computacionais discretas. Na computação científica, computadores são excelentes para fazer simulações de casos em que a modelagem matemática não é suficiente para analisar um problema. 
+
+Uma simulação discreta reproduz no computador a evolução de um sistema como uma sequência de eventos, como chegadas, atendimentos e saídas, que ocorrem em instantes distintos, o que permite testar diferentes configurações e cenários do sistema sem precisar alterá-lo na realidade.
 
 A partir dos conceitos de sistemas de filas, recursos e consumidores, cada grupo deve construir um ambiente simulado de um problema real. A chegada dos usuários e o tempo de consumo de cada serviço devem ser aleatórios, segundo funções de probabilidade definidas pelo grupo para o problema do seu tema. Sobre o ambiente simulado, o grupo deve produzir gráficos de análise, ajustar os parâmetros do sistema e analisar as variações resultantes de cada ajuste.
 
